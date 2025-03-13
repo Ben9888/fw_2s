@@ -4,3 +4,7 @@
 
 # 20250307 091C by Ben
 ## 解決 console 出現/bin/sh: pipe call failed及/bin/sh: can't load library 'libc.so.0'
+
+# 20250313 091C by Ben
+## 有DHCP IP 仍HB網路不通,執行指令 網路初始化
+## 若網路初始化,HB網路還是不通,2小時後重開機.
